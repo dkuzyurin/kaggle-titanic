@@ -9,6 +9,6 @@ https://www.kaggle.com/c/titanic/submit
 + LightGBM
 + CatBoost
 
-plus 2 Ensembles
+plus 2 Ensembles.
 
 Best Leaderboard Score: 0.81100 (Top 1% as for August 2021)
