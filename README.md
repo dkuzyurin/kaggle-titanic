@@ -1,7 +1,7 @@
 # kaggle-titanic
 
 My decision of Kaggle Titanic competition:
-https://www.kaggle.com/c/titanic/submit
+https://www.kaggle.com/c/titanic/overview
 
 4 Different Models:
 + Logistic Regression
