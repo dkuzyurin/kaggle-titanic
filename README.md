@@ -4,10 +4,10 @@ My decision of Kaggle Titanic competition:
 https://www.kaggle.com/c/titanic/submit
 
 4 Different Models:
-+ 1. Logistic Regression
-+ 2. Random Forest
-+ 3. LightGBM
-+ 4. CatBoost
++ Logistic Regression
++ Random Forest
++ LightGBM
++ CatBoost
 
 Plus 2 Ensembles
 
